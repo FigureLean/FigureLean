@@ -14,13 +14,14 @@ a well-known hamster breeder, and a Genshin player.
 
 ## Skills Set
 **front Developer**
-
+<div>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
 <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 <img src="https://img.shields.io/badge/-Vue-green?style=flat-square&logo=Vue.js" />
 <img src="https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=Dart"/>
 <img src="https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=Flutter" />
+</div>
 
 
 **Backend Developer**
