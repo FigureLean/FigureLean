@@ -1,7 +1,7 @@
 # Hi I'm FigureLean,a Student  👋
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=WELCOME&fontSize=90&fontAlign=50&fontAlignY=30&desc=I AM FIGURE&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={WELCOME}&fontSize=90&fontAlign=50&fontAlignY=30&desc={I AM FIGURE}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
 ## Introduce myself
