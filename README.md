@@ -29,7 +29,7 @@ a well-known hamster breeder, and a Genshin player.
 <div>
 <img src="https://img.shields.io/badge/-SpringBoot-darkgreen?style=flat-square&logo=SpringBoot"/>
 <img src="https://img.shields.io/badge/-Redis-red?style=flat-square&logo=Redis"/>
-<img src="https://img.shields.io/badge/-MySQL-yellow?style=flat-square&logo=MySQL"/>
+<img src="https://img.shields.io/badge/-MySQL-lightblue?style=flat-square&logo=MySQL"/>
 </div>
 
 **DevOps**
