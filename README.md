@@ -49,11 +49,8 @@ a well-known hamster breeder, and a Genshin player.
 </div>
 
 ## Support Me
-
-- AliPay
-  ![支付宝支付](image.png)
-
-- WechatPay
-  ![微信支付](image-1.png)
-
+ WechatPay    | AliPay
+-------- | -----
+ ![支付宝支付](image.png) | ![微信支付](image-1.png)
+ 
 - BNB: 0x5baa2e6979a7f167da416b39bbf804343a23fe0a  
