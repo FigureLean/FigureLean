@@ -26,21 +26,27 @@ a well-known hamster breeder, and a Genshin player.
 
 **Backend Developer**
 
+<div>
 <img src="https://img.shields.io/badge/-SpringBoot-darkgreen?style=flat-square&logo=SpringBoot"/>
 <img src="https://img.shields.io/badge/-Redis-red?style=flat-square&logo=Redis"/>
 <img src="https://img.shields.io/badge/-MySQL-yellow?style=flat-square&logo=MySQL"/>
+</div>
 
 **DevOps**
 
+<div>
 <img src="https://img.shields.io/badge/-Git-orange?style=flat-square&logo=Git"/>
 <img src="https://img.shields.io/badge/-Docker-lightblue?style=flat-square&logo=Docker"/>
 <img src="https://img.shields.io/badge/-Ubuntu-orange?style=flat-square&logo=Ubuntu"/>
+</div>
 
 
 **Environment**
 
+<div>
 <img src="https://img.shields.io/badge/-windows11-blue?style=flat-square&logo=windows11"/>
 <img src="https://img.shields.io/badge/-Visual Studio Code-blue?style=flat-square&logo=Visual Studio Code"/>
+</div>
 
 ## Support Me
 
